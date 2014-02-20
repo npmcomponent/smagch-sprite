@@ -1,0 +1,17 @@
+{
+  "name": "smagch-sprite",
+  "description": "Event Bubbling Sprite, mixining EventEmitter/Enumerable",
+  "version": "0.0.2",
+  "keywords": [
+    "event",
+    "emitter",
+    "bubble",
+    "enumerable",
+    "sprite"
+  ],
+  "dependencies": {
+    "component-enumerable": "git://github.com/npmcomponent/component-enumerable.git",
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git"
+  },
+  "license": "MIT"
+}

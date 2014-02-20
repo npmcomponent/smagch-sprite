@@ -4,8 +4,8 @@
  * Base Element for nesting data architecture
  * It supports simple event bubbling
  */
-var Enumerable = require('enumerable')
-  , Emitter = require('emitter')
+var Enumerable = require('component-enumerable')
+  , Emitter = require('component-emitter')
   , emit = Emitter.prototype.emit
   , slice = Array.prototype.slice;
 
